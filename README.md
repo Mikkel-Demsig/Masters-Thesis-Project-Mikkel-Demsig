@@ -1,0 +1,1 @@
+Code used in Mikkel Demsig's masters thesis. It contains code for checking the feasibility of multistationartity in the space of total concentrations for MAPK in the case n=3. It is heavily inspired by the articale "Multistationarity in the Space of Total Concentrations for Systems that Admit a Monomial Parametrization" by Conradi et. al.
